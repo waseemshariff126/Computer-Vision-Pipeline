@@ -43,5 +43,5 @@ Note:
 	the program once, the model is trained, we can comment 
 	the line 314 "car_Type_model()" in myPipeline.py. So that we do not have to
 	retrain the model again and again.
-
-![Output Video Demo](output.gif)
+# [Output Video Demo]
+![](Output.gif)
